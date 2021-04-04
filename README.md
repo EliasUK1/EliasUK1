@@ -1,6 +1,12 @@
 <h1 align="center">Hi There, I'm Elias - aka The Guy Who Eats Too Much KFC 🐔</h1>
 <h3 align="center">I'm your average kid, Professional Basement Dweller & Full-time KFC Robber 🚔</h3>
 
+- 💻 I'm currently working on developing a website, that is going to revolutionise the work-industry.
+- 📚 I’m currently learning the basics of HTML, CSS & Java. To further advance my front-end knowledge.
+- 🧠 I’m looking to meeting new people, and advancing my knowledge. 
+- 🥅 2021 Goals: Build a portfolio, and hopefully be able to contribute to repositories.
+- ⚡ Fun fact: I like Ice Hockey & avoiding society.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/www.eliasuk1-portfolio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="www.eliasuk1-portfolio.com" height="30" width="40" /></a>
